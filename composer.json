@@ -1,0 +1,7 @@
+{
+    "name": "kaspar/fake-esto",
+    "description": "Faker providers for estonian language",
+    "type": "library",
+    "license": "WTFPL",
+    "require": {}
+}
