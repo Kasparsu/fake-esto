@@ -38,5 +38,8 @@
         "test-coverage": [
             "./vendor/bin/phpunit --coverage-text -c phpunit.xml"
         ]
+    },
+    "require": {
+        "fzaninotto/faker": "^1.9"
     }
 }
