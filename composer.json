@@ -1,6 +1,7 @@
 {
     "name": "kaspar/fake-esto",
     "description": "Faker providers for estonian language",
+    "author": "Kaspar Martin Suursalu <kasparsu@gmail.com>",
     "type": "library",
     "license": "WTFPL",
     "require": {}
